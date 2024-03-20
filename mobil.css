@@ -1,0 +1,139 @@
+@media only screen and (max-width: 1126px)
+{
+    .all{
+        left: 15%;
+    }
+}
+@media only screen and (max-width: 1003px)
+{
+    .all{
+        left: 10%;
+    }
+}
+@media only screen and (max-width: 929px)
+{
+    .all{
+        left: 5%;
+    }
+}
+@media only screen and (max-width: 887px)
+{
+    .all{
+        display:block;
+        justify-content: space-around;
+        background-color: white;
+        width: 40%;
+        height: 1400px;
+        border:none;
+        position: absolute;
+        left: 30%;
+        bottom: -60%;
+        border-radius: 20px;
+    }
+    .img{
+        position: absolute;
+        top: 33%;
+        width: 94%;
+        height: 400px;
+        left: 3%;
+        border-radius: 20px;
+    }
+    .text{
+        width: 85%;
+        position: absolute;
+        top: 60%;
+        padding: 30px;
+    }
+    .text h1{
+        text-align: center;
+        color: var(--text-color);
+        font-size: 30px;
+        font-weight: 900;
+        position: relative;
+        bottom: 20px;
+    }
+    .input{
+        position: relative;
+        top: -40px;
+        width: 200px;
+        margin-bottom: 20px;
+        border-radius: 5px;
+    }
+    .btn{
+        position: relative;
+        top: -50px;
+        color: white !important;
+        background-color: var(--text-color) !important;
+        width: 200px;
+        border-radius: 5px;
+    }
+    .emailText{
+        font-size:10px;
+    }
+    #spn{
+        color: red !important;
+        position: relative;
+        left: 15%;
+    }
+}
+
+@media only screen and (max-width: 755px)
+{
+    .all{
+        display:block;
+        justify-content: space-around;
+        background-color: white;
+        width: 40%;
+        height: 1500px;
+        border:none;
+        position: absolute;
+        left: 30%;
+        bottom: -60%;
+        border-radius: 20px;
+    }
+    .img{
+        position: absolute;
+        top: 36%;
+        width: 94%;
+        height: 350px;
+        left: 3%;
+        border-radius: 20px;
+    }
+    .text{
+        width: 75%;
+        position: absolute;
+        top: 60%;
+        padding: 30px;
+    }
+    .text h1{
+        text-align: center;
+        color: var(--text-color);
+        font-size: 30px;
+        font-weight: 900;
+        position: relative;
+        bottom: 20px;
+    }
+    .input{
+        position: relative;
+        top: -40px;
+        width: 200px;
+        margin-bottom: 20px;
+        border-radius: 5px;
+    }
+    .btn{
+        position: relative;
+        top: -50px;
+        color: white !important;
+        background-color: var(--text-color) !important;
+        width: 200px;
+        border-radius: 5px;
+    }
+    .emailText{
+        font-size:10px;
+    }
+    #spn{
+        color: red !important;
+        position: relative;
+        left: 15%;
+    }
+}
